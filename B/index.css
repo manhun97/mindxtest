@@ -1,0 +1,14 @@
+html,
+body,
+#app {
+	height: 100%;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+#app {
+	display: flex;
+	flex-direction: column;
+	width: 300px;
+	align-items: center;
+}
